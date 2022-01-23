@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vishalhumber
+- 👋 Hi, I’m Vishal Kumar @Vishalhumber
 - 👀 I’m interested in ...IT and Learning
 - 🌱 I’m currently learning Information Technology Solutions 
 - 💞️ I’m looking to collaborate on Web programming
